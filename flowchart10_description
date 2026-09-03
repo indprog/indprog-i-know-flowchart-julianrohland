@@ -1,0 +1,5 @@
+This process describes my morning routine for choosing breakfast.
+The input is the time I have before I need to leave (time_before_exit).
+The condition checks if I have 30 minutes or more.
+If yes, the process is to make scrambled eggs. If no, the process is to make havregryn.
+The final output is serving the breakfast
